@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sojimav/JeanEdwardsReact.git/static/css/main.0c7a2c2b.chunk.css",
+    "main.js": "/sojimav/JeanEdwardsReact.git/static/js/main.74b8d36c.chunk.js",
+    "main.js.map": "/sojimav/JeanEdwardsReact.git/static/js/main.74b8d36c.chunk.js.map",
+    "runtime-main.js": "/sojimav/JeanEdwardsReact.git/static/js/runtime-main.d821b4de.js",
+    "runtime-main.js.map": "/sojimav/JeanEdwardsReact.git/static/js/runtime-main.d821b4de.js.map",
+    "static/js/2.b9ae8d48.chunk.js": "/sojimav/JeanEdwardsReact.git/static/js/2.b9ae8d48.chunk.js",
+    "static/js/2.b9ae8d48.chunk.js.map": "/sojimav/JeanEdwardsReact.git/static/js/2.b9ae8d48.chunk.js.map",
+    "static/js/3.ea305fe1.chunk.js": "/sojimav/JeanEdwardsReact.git/static/js/3.ea305fe1.chunk.js",
+    "static/js/3.ea305fe1.chunk.js.map": "/sojimav/JeanEdwardsReact.git/static/js/3.ea305fe1.chunk.js.map",
+    "index.html": "/sojimav/JeanEdwardsReact.git/index.html",
+    "precache-manifest.ee958a7af86227a2fd6ba3e41d54ec5f.js": "/sojimav/JeanEdwardsReact.git/precache-manifest.ee958a7af86227a2fd6ba3e41d54ec5f.js",
+    "service-worker.js": "/sojimav/JeanEdwardsReact.git/service-worker.js",
+    "static/css/main.0c7a2c2b.chunk.css.map": "/sojimav/JeanEdwardsReact.git/static/css/main.0c7a2c2b.chunk.css.map",
+    "static/js/2.b9ae8d48.chunk.js.LICENSE.txt": "/sojimav/JeanEdwardsReact.git/static/js/2.b9ae8d48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d821b4de.js",
+    "static/js/2.b9ae8d48.chunk.js",
+    "static/css/main.0c7a2c2b.chunk.css",
+    "static/js/main.74b8d36c.chunk.js"
+  ]
+}
